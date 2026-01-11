@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "عسل نحل طبيعي",
+      "price": 120,
+      "weight": "500 جم",
+      "origin": "سيوة",
+      "image": "https://unsplash.com/photos/honeycombs-and-a-honey-comb-on-a-white-surface-1AqCZf5C-x8h",
+      "description": "عسل نحل طبيعي 100% بدون أي إضافات."
+    },
+    {
+      "id": 2,
+      "name": "عسل سدر يمني",
+      "price": 350,
+      "weight": "1 كجم",
+      "origin": "اليمن",
+      "image": "https://unsplash.com/photos/a-wooden-bowl-filled-with-honey-on-top-of-a-wooden-table-9lDEPcyKcfk",
+      "description": "عسل سدر أصلي معروف بفوائده."
+    },
+    {
+      "id": 3,
+      "name": "عسل عضوي",
+      "price": 180,
+      "weight": "500 جم",
+      "origin": "مصر",
+      "image": "https://unsplash.com/photos/glass-can-full-of-honey-beekeeper-concept-FrkmfSHNw-0",
+      "description": "عسل عضوي من زهور طبيعية."
+    }
+  ]
+}
